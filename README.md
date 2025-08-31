@@ -34,19 +34,20 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-ECE Graduate passionate about **full-stack web development**. Skilled in modern frontend and backend technologies with a focus on building scalable apps and solving real-world problems.  
+ECE Graduate passionate about **full-stack web development**. Skilled in modern frontend and backend technologies with a focus on building scalable apps and solving real-world problems.
 
-- 🔧 **Tech Stack:** React, Node.js, Express, MongoDB, Java  
-- 🎯 **Focus:** MERN Stack & scalable APIs  
-- 🌱 **Currently:** Working on hackathon/full-stack projects  
-- ⚡ **Interests:** Problem-solving, DevOps, Open Source  
-- 💡 **Fun Fact:** Coffee + Code = My Power Combo ☕💻  
+- 🔧 **Tech Stack:** React, Node.js, Express, MongoDB, Java
+- 🎯 **Focus:** MERN Stack & scalable APIs
+- 🌱 **Currently:** Working on hackathon/full-stack projects
+- ⚡ **Interests:** Problem-solving, DevOps, Open Source
+- 💡 **Fun Fact:** Coffee + Code = My Power Combo ☕💻
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -54,6 +55,7 @@ ECE Graduate passionate about **full-stack web development**. Skilled in modern 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -61,6 +63,7 @@ ECE Graduate passionate about **full-stack web development**. Skilled in modern 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -70,17 +73,23 @@ ECE Graduate passionate about **full-stack web development**. Skilled in modern 
 ## 🌟 Featured Projects
 
 ### 🍴 College Canteen App
-An app to reduce rush during lunch/dinner by enabling online food orders & live order tracking.  
-- **Tech:** Flutter, Firebase  
+
+An app to reduce rush during lunch/dinner by enabling online food orders & live order tracking.
+
+- **Tech:** Flutter, Firebase
 - **Features:** Live status tracking, push notifications, digital tokens
 
-### 💼 Hackathon Project  
-Full-stack project with **React + Vite frontend** and **Express + MongoDB backend**.  
-- **Features:** Authentication, API integration, modern UI  
+### 💼 Hackathon Project
 
-### 🌐 Portfolio Website  
-Personal portfolio showcasing projects and skills.  
-- **Tech:** React, Tailwind, Node.js  
+Full-stack project with **React + Vite frontend** and **Express + MongoDB backend**.
+
+- **Features:** Authentication, API integration, modern UI
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing projects and skills.
+
+- **Tech:** React, Tailwind, Node.js
 
 ---
 
@@ -98,18 +107,18 @@ Personal portfolio showcasing projects and skills.
 ---
 
 ## 💫 Let's Connect
-
 <div align="center">
-  <a href="mailto:hardik@example.com">
+  <a href="mailto:hardik.ajmeriya12@gmail.com">
     <img src="https://img.shields.io/badge/📧-Email-1E90FF?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/hardik-ajmeriya/">
     <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/HardikAjmeriya/">
-    <img src="https://img.shields.io/badge/🧩-LeetCode-FFA116?style=for-the-badge&logoColor=white" alt="LeetCode"/>
+  <a href="tel:+919574255382">
+    <img src="https://img.shields.io/badge/📱-Call%20Me-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
