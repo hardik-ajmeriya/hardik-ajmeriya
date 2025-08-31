@@ -19,12 +19,6 @@
     <a href="mailto:hardik@example.com">
       <img src="https://img.shields.io/badge/Email-1E90FF?style=flat-square&logo=gmail&logoColor=white&labelColor=1E90FF" alt="Email"/>
     </a>
-    <a href="https://hardik-portfolio.com/resume.pdf">
-      <img src="https://img.shields.io/badge/Resume-4682B4?style=flat-square&logo=document&logoColor=white&labelColor=4682B4" alt="Resume"/>
-    </a>
-    <a href="https://leetcode.com/u/HardikAjmeriya/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
-    </a>
   </div>
 </div>
 
